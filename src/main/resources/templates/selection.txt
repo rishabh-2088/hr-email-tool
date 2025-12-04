@@ -1,0 +1,9 @@
+Dear {{name}},
+
+We are pleased to inform you that you have been selected for the position of {{position}} at {{company}}.
+
+Please reply to this email to confirm your acceptance.
+
+Best regards,
+HR Team
+

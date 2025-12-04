@@ -1,0 +1,8 @@
+Dear {{name}},
+
+Thank you for applying for the  position of {{position}} at {{company}}.
+
+We regret to inform you that we have decided to move forward with other candidates.
+
+Best regards,
+HR Team
